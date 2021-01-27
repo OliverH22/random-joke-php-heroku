@@ -29,7 +29,19 @@
 		["q"=>"Can February March?","a"=>"No, but April May"],
 		["q"=>"What lies at the bottom of the ocean and twitches?","a"=>"A nervous wreck."],
 		["q"=>"Im reading a book on the history of glue.","a"=>"I just cant seem to put it down."],
-		["q"=>"Dad, can you put the cat out?","a"=>"I didnt know it was on fire."],
+		["q"=>"    .    _  .     _____________
+   |\_|/__/|    /                \
+  / / \/ \  \  / Dad, can you     \
+ /__|O||O|__ \ \ put the cat out?  /
+|/_ \_/\_/ _\ | \  _______________/
+| | (____) | ||  |/
+\/\___/\__/  // _/
+(_/         ||
+ |          ||\
+  \        //_/ 
+   \______//
+  __|| __||
+ (____(____)","a"=>"I didnt know it was on fire."],		
 		["q"=>"What did the ocean say to the sailboat?","a"=>"Nothing, it just waved."],
 		["q"=>"What do you get when you cross a snowman with a vampire?","a"=>"Frostbite"]
 	];
